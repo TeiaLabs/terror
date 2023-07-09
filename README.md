@@ -1,4 +1,4 @@
-# terror
+# TError
 The terrific Teia toolkit for traceable error treatment and troubleshooting.
 
 This tool tackles the task of taming turmoil in FastAPI with thorough templating (github.com/teialabs/http-error-schemas).
